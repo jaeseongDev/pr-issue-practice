@@ -1,5 +1,7 @@
-# pr-issue-practice
-2
-3
-1
-4
+// A
+
+
+module.exports = {
+ kim: 'seowoong',
+ wow: () => console.log('wow object~~');
+};
